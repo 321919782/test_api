@@ -1,0 +1,6 @@
+{
+"data":[{"username":"peter","password":"admin","code":200},
+        {"username":"peter1","password":"admin","code":5},
+        {"username":"peter","password":"admin1","code":4}
+            ]
+}
